@@ -4,7 +4,7 @@ function mainCategory1() {
   return (
     <div className="mt-5">
       <div className="row g-4">
-        <div className="col-lg-9">
+        <div className="col-lg-8">
           <div className="header-catergory">
             <h4>Music</h4>
           </div>
@@ -17,7 +17,10 @@ function mainCategory1() {
                     <p>
                       <a href="#">Bolokiyo Ft Roberto</a>
                     </p>
-                    <p>July 11, 2017</p>
+                    <p>
+                      <span><i className="bi bi-alarm"></i> 2 days ago</span>
+                      <span><i className="bi bi-eye"></i>1.2k</span>
+                    </p>
                   </div>
                 </div>
               </div>
@@ -28,7 +31,10 @@ function mainCategory1() {
                     <p>
                       <a href="#">Ruger – Dior ( Official Video )</a>
                     </p>
-                    <p>July 11, 2017</p>
+                    <p>
+                      <span><i className="bi bi-alarm"></i> 5 days ago</span>
+                      <span><i className="bi bi-eye"></i>7k</span>
+                    </p>
                   </div>
                 </div>
               </div>
@@ -39,7 +45,10 @@ function mainCategory1() {
                     <p>
                       <a href="#">Harmonize ft. Ibraah</a>
                     </p>
-                    <p>July 11, 2017</p>
+                    <p>
+                      <span><i className="bi bi-alarm"></i> 2 days ago</span>
+                      <span><i className="bi bi-eye"></i>2.1k</span>
+                    </p>
                   </div>
                 </div>
               </div>
@@ -50,7 +59,10 @@ function mainCategory1() {
                     <p>
                       <a href="#">Towela’s New Song</a>
                     </p>
-                    <p>July 11, 2017</p>
+                    <p>
+                      <span><i className="bi bi-alarm"></i> 8 days ago</span>
+                      <span><i className="bi bi-eye"></i>3.8k</span>
+                    </p>
                   </div>
                 </div>
               </div>
@@ -63,7 +75,10 @@ function mainCategory1() {
                     <p>
                       <a href="#">Ruger – Dior ( Official Video )</a>
                     </p>
-                    <p>July 11, 2017</p>
+                    <p>
+                      <span><i className="bi bi-alarm"></i> 3 days ago</span>
+                      <span><i className="bi bi-eye"></i>6.2k</span>
+                    </p>
                   </div>
                 </div>
               </div>
@@ -74,7 +89,10 @@ function mainCategory1() {
                     <p>
                       <a href="#">Shepy ft. Breezy</a>
                     </p>
-                    <p>July 11, 2017</p>
+                    <p>
+                      <span><i className="bi bi-alarm"></i> 1 days ago</span>
+                      <span><i className="bi bi-eye"></i>6.2k</span>
+                    </p>
                   </div>
                 </div>
               </div>
@@ -85,7 +103,10 @@ function mainCategory1() {
                     <p>
                       <a href="#">Bolokiyo Ft Roberto</a>
                     </p>
-                    <p>July 11, 2017</p>
+                    <p>
+                      <span><i className="bi bi-alarm"></i> 4 days ago</span>
+                      <span><i className="bi bi-eye"></i>6.2k</span>
+                    </p>
                   </div>
                 </div>
               </div>
@@ -96,7 +117,10 @@ function mainCategory1() {
                     <p>
                       <a href="#">Shepy ft. Breezy</a>
                     </p>
-                    <p>July 11, 2017</p>
+                    <p>
+                      <span><i className="bi bi-alarm"></i> 5 days ago</span>
+                      <span><i className="bi bi-eye"></i>6.2k</span>
+                    </p>
                   </div>
                 </div>
               </div>
@@ -209,7 +233,49 @@ function mainCategory1() {
             </div>
           </div>
         </div>
-        <div className="col-lg-3"></div>
+        <div className="col-lg-4">
+          <div className="row g-4">
+            <div className="col-12 gory-4">
+              <div>
+                <div className="header-catergory">
+                  <h4>Trending Posts</h4>
+                </div>
+                <div className="card-post">
+                  <div className="post mb-3">
+                    <img src="images/img_1.jpg" alt="" />
+                    <div className="post-content">
+                      <p><a href="#">Here’s How Samsung Is Forcing People To Turn In Their Galaxy Note7 Phones</a></p>
+                      <div>
+                        <span><i className="bi bi-alarm"></i> 5 days ago</span>
+                        <span><i className="bi bi-eye"></i>6.2k</span>
+                      </div>
+                    </div>
+                  </div>
+                  <div className="post mb-3">
+                    <img src="images/img_2.jpg" alt="" />
+                    <div className="post-content">
+                      <p><a href="#">Here’s How Samsung Is Forcing People To Turn In Their Galaxy Note7 Phones</a></p>
+                      <div>
+                        <span><i className="bi bi-alarm"></i> 5 days ago</span>
+                        <span><i className="bi bi-eye"></i>6.2k</span>
+                      </div>
+                    </div>
+                  </div>
+                  <div className="post mb-3">
+                    <img src="images/img_3.jpg" alt="" />
+                    <div className="post-content">
+                      <p><a href="#">Here’s How Samsung Is Forcing People To Turn In Their Galaxy Note7 Phones</a></p>
+                      <div>
+                        <span><i className="bi bi-alarm"></i> 5 days ago</span>
+                        <span><i className="bi bi-eye"></i>6.2k</span>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
       </div>
       <div className="row g-4 mt-5">
         <div className="header-catergory">
