@@ -11,7 +11,7 @@ function Banner() {
                 <img
                   class="card-img-top"
                   src="images/01.jpg"
-                  alt="Card image"
+                  alt="img"
                 />
                 <div className="card-img-overlay">
                   <span className="badge bg-warning">Technology</span>
